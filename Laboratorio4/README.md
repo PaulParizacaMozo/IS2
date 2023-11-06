@@ -2,7 +2,7 @@
 
 ## Por: Paul Antony Parizaca Mozo
 
-## Ejecucion:
+## Ejecución:
 
 ### 1.- Clonar el repositorio:
 ```
