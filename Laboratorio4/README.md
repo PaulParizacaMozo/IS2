@@ -2,9 +2,9 @@
 
 ## Por: Paul Antony Parizaca Mozo
 
-## Pasos:
+## Ejecucion:
 
-### Paso 1 - Clonar el repositorio:
+### 1.- Clonar el repositorio:
 ```
 cd googletest
 mkdir build
@@ -13,7 +13,7 @@ cmake ..
 make
 ```
 
-### Paso 2:
+### 2.- Compilar y ejecutar:
 
 ```
 g++ -o TrianguloTest TrianguloTest.cpp -lgtest -lgtest_main -pthread
