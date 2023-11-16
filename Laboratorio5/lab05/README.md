@@ -27,6 +27,8 @@ rango más amplio de situaciones.
 | Valor Inválido (formato inválido) | % = "15.5.2", n = "3.1" | Manejo de error(1)   |
 | Valor Inválido (nulo) | % = "100", n = "null"     | Manejo de error(1)   |
 
+Error(1): Please provide two numeric values in any fields below.
+
 ## AppTest
 ```java
 package com.lab05;
